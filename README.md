@@ -32,11 +32,8 @@ Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go
 - The Preview shows what the file would look like after the changes. After reviewing the preview you are able to decide whether you want to keep the commit.
 - Review the changes you made to the file. If you select Show Diff, you will see the new content in green.
 3. When your final satisfied with the changes that are going to be made. You are ready to click "Commit Changes...'
-  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 # Steps to use Git 
 
