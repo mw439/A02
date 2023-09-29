@@ -3,6 +3,7 @@
 **GitHub**, Inc. is a platform and cloud-based service for software development and version control using Git, allowing developers to store and manage their code.
 GitHub is one of the most popular resources for developers to share code and work on projects together. It’s free and a easy way to learn how to code various types of coding languages. 
 Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go, Java, JavaScript, PHP, Python, Ruby, Scala, and TypeScript
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Steps to Using GitHub:
 
 # Creating a Github Account
