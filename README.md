@@ -11,7 +11,14 @@ Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go
 2. Make an Account (Create a Username and password)
   
 # Creating a New Repository 
+1. In the upper-right corner of any page(on Github), use the  drop-down menu, and select New Repository.
+2. Type a short, memorable name for your repository. For example, this repository's name is named "A02".
+3. You can also optionally add a description of your repository. (After naming your repository)
+4. Click Create Repository
+   
 # Creating a File 
+
+
 # Making a Commit (Change/Revision)
 
 
