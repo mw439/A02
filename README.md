@@ -17,7 +17,11 @@ Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go
 4. Click Create Repository
    
 # Creating a File 
-
+1. In the **Repository** that you created previously, go to the upper right corner. You will see three main buttons. (Goto File, Add File, and <>Code(Green Button))
+2. Click on Add Files. This will give you the drop down options on either Creating a new file or Uploading your own files.
+3. Click on Create a new file
+4. When you fully create a file, please remember to include a name in the file name field. Type the name and extension for the file.
+5. To create subdirectories, type the (/) directory separator. In the file contents text box, type content for the file. (This will determine the code and the type of files that would be able to be used for the file)
 
 # Making a Commit (Change/Revision)
 
@@ -67,6 +71,8 @@ A repository is the most basic element of GitHub. They're easiest to imagine as 
   
 - https://blog.hubspot.com/website/what-is-github-used-for
 
+- https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files
 
+- https://docs.github.com/en/get-started/quickstart/create-a-repo 
 
 
