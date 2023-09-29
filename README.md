@@ -1,15 +1,19 @@
 # A02 README.MD File
 
 # What is GitHub? 
-
+GitHub, Inc. is a platform and cloud-based service for software development and version control using Git, allowing developers to store and manage their code.
+GitHub is one of the most popular resources for developers to share code and work on projects together. It’s free and a easy way to learn how to code various types of coding languages. 
+Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go, Java, JavaScript, PHP, Python, Ruby, Scala, and TypeScript
 # Steps to Using GitHub
 
 # Creating a Github Account
 1. Search Up GitHub (or visit: https://github.com/) on your search engine or visit this direct sign up link here:
 - https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home  
 2. Make an Account (Create a Username and password)
-# Creating A New Repository 
+  
+# Creating a New Repository 
 # Creating a File 
+# Making a Commit (Change/Revision)
 
 
 
@@ -51,3 +55,9 @@ A repository is the most basic element of GitHub. They're easiest to imagine as 
 # References
 https://docs.github.com/en/get-started/quickstart/github-glossary 
 https://docs.github.com/en/get-started/quickstart/hello-world 
+https://docs.github.com/en/get-started/learning-about-github/github-language-support
+https://blog.hubspot.com/website/what-is-github-used-for
+
+
+
+
