@@ -1,11 +1,17 @@
 # A02 README.MD File
 
+# What is GitHub? 
+
 # Steps to Using GitHub
+
 # Creating a Github Account
 1. Search Up GitHub (or visit: https://github.com/) on your search engine or visit this direct sign up link here:
 - https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home  
 2. Make an Account (Create a Username and password)
-#
+# Creating A New Repository 
+# Creating a File 
+
+
 
 # Steps to use Git 
 
