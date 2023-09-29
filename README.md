@@ -26,8 +26,8 @@ Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go
 # Making a Commit (Change/Revision)
 1. After creating a file in the repository. To change the contents of the files (w/ information, code, comments, etc.. that you want to add/remove), you have to make a **Commit**. Commits are like snapshots of all the files in your project at a particular point in time.
 2. When making "Commit Changes...", please notice some of the tools that are available to you:
-- The Preview: Shows what the file would look like after the changes. After reviewing the preview you are able to decide whether you want to keep the commit.
-- Review the changes you made to the file. If you select -Show diff-, you will see the new content in green.
+- The Preview shows what the file would look like after the changes. After reviewing the preview you are able to decide whether you want to keep the commit.
+- Review the changes you made to the file. If you select Show Diff, you will see the new content in green.
 3. When your final satisfied with the changes that are going to be made. You are ready to click "Commit Changes...'
   
 
