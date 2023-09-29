@@ -53,10 +53,10 @@ This is the version of a repository or branch that is hosted on a server, most l
 A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 
 # References
-https://docs.github.com/en/get-started/quickstart/github-glossary 
-https://docs.github.com/en/get-started/quickstart/hello-world 
-https://docs.github.com/en/get-started/learning-about-github/github-language-support
-https://blog.hubspot.com/website/what-is-github-used-for
+- https://docs.github.com/en/get-started/quickstart/github-glossary 
+- https://docs.github.com/en/get-started/quickstart/hello-world 
+- https://docs.github.com/en/get-started/learning-about-github/github-language-support
+- https://blog.hubspot.com/website/what-is-github-used-for
 
 
 
