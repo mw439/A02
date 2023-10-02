@@ -47,7 +47,14 @@ Basic Ideas:
 COMMANDS are very useful when interacting with a **remote** repository. You can **clone** and **fetch** download remote code from a repository's remote URL to your local computer, **merge** can also be used to merge different people's work together with yours, and **pull** is a combination of **fetch** and **merge**.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# What is Git?
+**Git** is a distributed version control system(VCS) that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together.
 
+Git allows developers see the entire timeline of their changes, decisions, and progression of any project in one place which is GitHub.
+
+Please realize that: "GitHub hosts Git repositories and provides developers with tools to ship better code through command line features, issues (threaded discussions), pull requests, code review, or the use of a collection of free and for-purchase apps in the GitHub Marketplace. With collaboration layers like the GitHub flow, a community of 100 million developers, and an ecosystem with hundreds of integrations, GitHub changes the way software is built."
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Steps to use Git 
 
 
