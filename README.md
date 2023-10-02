@@ -78,7 +78,7 @@ The key difference is that:
 # Feature/Task: Setting your Username for EVERY repository on your computer 
 1. Open Git Bash
 2. Set a Git username:
-ex: git config --global user.name "Mona Lisa"
+ex: git config --global user.name "Mona Lisa" 
 3. Confirm that you have set the Git username correctly:
 - ex: 
 - $ git config --global user.name
@@ -117,7 +117,22 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-pers
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Steps to use Webstorm 
+# What is Webstorm?
+WebStorm is an integrated development environment for coding in JavaScript and its related technologies, including TypeScript, React, Vue, Angular, Node. js, HTML, and style sheets. WebStorm is a popular IDE used by web developers to make web applications. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Steps to use Webstorm
+
+# Task: Downloading Git
+- To install WebStorm, go to the following URL: https://www.jetbrains.com/webstorm/download/#section=windows or visit https://www.jetbrains.com/help/webstorm/installation-guide.html#toolbox
+
+# Task: Making an account on JetBrains 
+- You can register and login by visiting this link: https://account.jetbrains.com/login
+
+# Feature: How to use Webstorm//Linking it to Git/Github
+All details regarding how to connect to Webstorm are linked here: 
+- https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_open_project 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -175,6 +190,12 @@ A repository is the most basic element of GitHub. They're easiest to imagine as 
 - https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
 
 - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
+  
+- https://www.jetbrains.com/webstorm/download/#section=windows or visit https://www.jetbrains.com/help/webstorm/installation-guide.html#toolbox
+
+- https://account.jetbrains.com/login
+
+- https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_open_project 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
