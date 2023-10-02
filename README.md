@@ -4,7 +4,7 @@
 GitHub is one of the most popular resources for developers to share code and work on projects together. It’s free and a easy way to learn how to code various types of coding languages. 
 Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go, Java, JavaScript, PHP, Python, Ruby, Scala, and TypeScript
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Steps to Using GitHub:
 
@@ -91,6 +91,7 @@ This is the version of a repository or branch that is hosted on a server, most l
 A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 
 # References
+
 - https://docs.github.com/en/get-started/quickstart/github-glossary
    
 - https://docs.github.com/en/get-started/quickstart/hello-world
@@ -103,6 +104,8 @@ A repository is the most basic element of GitHub. They're easiest to imagine as 
 
 - https://docs.github.com/en/get-started/quickstart/create-a-repo
 
-- https://docs.github.com/en/actions/using-workflows/about-workflows 
+- https://docs.github.com/en/actions/using-workflows/about-workflows
+
+- https://docs.github.com/en/get-started/using-git/about-git
 
 
