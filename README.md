@@ -8,25 +8,27 @@ Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go
 
 # Steps to Using GitHub:
 
-# Creating a Github Account
+# Task: Creating a Github Account
 1. Search Up GitHub (or visit: https://github.com/) on your search engine or visit this direct sign up link here:
 - https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home  
 2. Make an Account (Create a Username and password)
   
-# Creating a New Repository 
+# Task: Creating a New Repository 
 1. In the upper-right corner of any page(on Github), use the  drop-down menu, and select New Repository.
 2. Type a short, memorable name for your repository. For example, this repository's name is named "A02".
 3. You can also optionally add a description of your repository. (After naming your repository)
 4. Click Create Repository
    
-# Creating a File 
+# Task: Creating a File 
 1. In the **Repository** that you created previously, go to the upper right corner. You will see three main buttons. (Go to File, Add File, and <>Code(Green Button))
 2. Click on Add Files. This will give you the drop down options on either Creating a new file or Uploading your own files.
 3. Click on Create a new file
 4. When you fully create a file, please remember to include a name in the file name field (ex: README.md). Type the name and extension for the file.
 5. To create subdirectories, type the (/) directory separator. In the file contents text box, type content for the file. (This will determine the code and the type of files that would be able to be used for the file)
 
-# Making a Commit (Change/Revision)
+# Feature: Github WorkFlow
+
+# Fix: Making a Commit (Change/Revision)
 1. After creating a file in the repository. To change the contents of the files (w/ information, code, comments, etc.. that you want to add/remove), you have to make a **Commit**. Commits are like snapshots of all the files in your project at a particular point in time.
 2. When making "Commit Changes...", please notice some of the tools that are available to you:
 - The Preview shows what the file would look like after the changes. After reviewing the preview you are able to decide whether you want to keep the commit.
