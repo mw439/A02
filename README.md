@@ -12,6 +12,9 @@ Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go
 1. Search Up GitHub (or visit: https://github.com/) on your search engine or visit this direct sign up link here:
 - https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home  
 2. Make an Account (Create a Username and password)
+
+# Task: Downloading Github Desktop
+- It is also recommended to dowload the desktop version: https://desktop.github.com/ 
   
 # Task: Creating a New Repository 
 1. In the upper-right corner of any page(on Github), use the  drop-down menu, and select New Repository.
