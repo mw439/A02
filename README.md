@@ -70,6 +70,12 @@ Please realize that: "GitHub hosts Git repositories and provides developers with
 - For more details on installing Git please visit the website below:
 - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Steps to use Webstorm 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -123,4 +129,6 @@ A repository is the most basic element of GitHub. They're easiest to imagine as 
 
 - https://git-scm.com/downloads 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
