@@ -80,10 +80,9 @@ The key difference is that:
 2. Set a Git username:
 ex: git config --global user.name "Mona Lisa"
 3. Confirm that you have set the Git username correctly:
-ex: 
-
-$ git config --global user.name
-> Mona Lisa
+- ex: 
+- $ git config --global user.name
+- > Mona Lisa
 
 # Feature/Task: Setting your Username for ONE repository on your computer 
 1. Open Git Bash
@@ -91,10 +90,9 @@ $ git config --global user.name
 3. Set a Git username:
 ex: git config user.name "Mona Lisa"
 4. Confirm that you have set the Git username correctly:
-ex:
-
-$ git config user.name
-> Mona Lisa
+- ex:
+- $ git config user.name
+- > Mona Lisa
 
 # Task: Setting your Commit Email Address
 To set your email address please visit: 
