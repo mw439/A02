@@ -57,7 +57,13 @@ Please realize that: "GitHub hosts Git repositories and provides developers with
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Steps to use Git 
 
-
+# Task: Downloading Git
+- To Download Git, go to this link:https://git-scm.com/downloads
+- This link allows you to download a specific version of Git depending on the systems your using, they includes versions for
+  - Linux/Unix
+  - Windows
+  - MacOS
+- Understand that it is required to download Git to fully optimize the use with Github Desktop. 
 
 # Steps to use Webstorm 
 
@@ -107,5 +113,7 @@ A repository is the most basic element of GitHub. They're easiest to imagine as 
 - https://docs.github.com/en/actions/using-workflows/about-workflows
 
 - https://docs.github.com/en/get-started/using-git/about-git
+
+- https://git-scm.com/downloads 
 
 
