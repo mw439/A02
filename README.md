@@ -80,7 +80,8 @@ The key difference is that:
 2. Set a Git username:
 ex: git config --global user.name "Mona Lisa"
 3. Confirm that you have set the Git username correctly:
-ex:
+ex: 
+
 $ git config --global user.name
 > Mona Lisa
 
@@ -91,6 +92,7 @@ $ git config --global user.name
 ex: git config user.name "Mona Lisa"
 4. Confirm that you have set the Git username correctly:
 ex:
+
 $ git config user.name
 > Mona Lisa
 
