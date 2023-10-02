@@ -40,10 +40,13 @@ Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go
 # Features: Other commands/features/concepts
 - **Branches** allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository. You can use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.
 - **Merging(Merge)** allows you to combine branches into one. Sometimes **Merge conflicts** can happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. Git can often resolve differences between branches and merge them automatically.
+- **Fetch** allows you download files and changes from the **remote** to your local repository.
+- Remember for **Remote**: A remote URL is Git's fancy way of saying "the place where your code is stored." That URL could be your repository on GitHub, or another user's fork, or even on a completely different server.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Basic Ideas: 
+COMMANDS are very useful when interacting with a **remote** repository. You can **clone** and **fetch** download remote code from a repository's remote URL to your local computer, **merge** can also be used to merge different people's work together with yours, and **pull** is a combination of **fetch** and **merge**.
 
-COMMANDS are very useful when interacting with a remote repository. You can **clone** and **fetch** download remote code from a repository's remote URL to your local computer, **merge** can also be used to merge different people's work together with yours, and **pull** is a combination of **fetch** and **merge**.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Steps to use Git 
 
