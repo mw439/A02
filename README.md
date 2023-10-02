@@ -72,7 +72,7 @@ Please realize that: "GitHub hosts Git repositories and provides developers with
 
 # Steps to use Webstorm 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Glossary 
 
@@ -100,6 +100,8 @@ Pull refers to when you are fetching in changes and merging them. For instance, 
 This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.
 - **Repository**: 
 A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # References
 
