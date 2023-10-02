@@ -71,12 +71,49 @@ The key difference is that:
   - Windows
   - MacOS
 - Understand that it is required to download Git to fully optimize the use with Github Desktop. (If you download GitHub Desktop it will also download the latest version of Git (only if you don't have it already))
+- Dowloading Git will also allow you to utilize Git Bash
 - For more details on installing Git please visit the website below:
 - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
+# Feature/Task: Setting your Username for EVERY repository on your computer 
+1. Open Git Bash
+2. Set a Git username:
+ex: git config --global user.name "Mona Lisa"
+3. Confirm that you have set the Git username correctly:
+ex:
+$ git config --global user.name
+> Mona Lisa
 
+# Feature/Task: Setting your Username for ONE repository on your computer 
+1. Open Git Bash
+2. Change the current working directory to the local repository where you want to configure the name that is associated with your Git commits.
+3. Set a Git username:
+ex: git config user.name "Mona Lisa"
+4. Confirm that you have set the Git username correctly:
+ex:
+$ git config user.name
+> Mona Lisa
 
+# Task: Setting your Commit Email Address
+To set your email address please visit: 
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
+(This is because there are various different instructions depending on the device/system that you are using)
 
+# Feature: Using Git and GitHub
+- You now have Git and GitHub all set up. You may now choose to create a repository where you can put your projects. Saving your code in a repository allows you to back up your code and share it around the world.
+- Creating a repository for your project allows you to store code in GitHub. This provides a backup of your work that you can choose to share with other developers.
+- Forking a repository will allow you to make changes to another repository without affecting the original.
+- Each repository on GitHub is owned by a person or an organization. You can interact with the people, repositories, and organizations by connecting and following them on GitHub. For more information
+
+# Feature: Basic Commands in Git
+- git init: initializes a brand new Git repository and begins tracking an existing directory. It adds a hidden subfolder within the existing directory that houses the internal data structure required for version control.
+- git **clone**: creates a local copy of a project that already exists remotely. The clone includes all the project's files, history, and branches.
+- git **commit**: saves the snapshot to the project history and completes the change-tracking process.
+- git **status**: shows the status of changes as untracked, modified, or staged.
+- git **branch**: shows the branches being worked on locally.
+- git **merge**: merges lines of development together. This command is typically used to combine changes made on two distinct branches.
+- git **pull**: updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
+- git **push**: updates the remote repository with any commits made locally to a branch.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -131,8 +168,13 @@ A repository is the most basic element of GitHub. They're easiest to imagine as 
 
 - https://docs.github.com/en/get-started/using-git/about-git
 
-- https://git-scm.com/downloads 
+- https://git-scm.com/downloads
+  
+- https://docs.github.com/en/get-started/quickstart/set-up-git
 
+- https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
+
+- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
