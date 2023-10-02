@@ -31,7 +31,8 @@ Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go
 2. When making "Commit Changes...", please notice some of the tools that are available to you:
 - The Preview shows what the file would look like after the changes. After reviewing the preview you are able to decide whether you want to keep the commit.
 - Review the changes you made to the file. If you select Show Diff, you will see the new content in green.
-3. When your final satisfied with the changes that are going to be made. You are ready to click "Commit Changes...'
+3. When your finally satisfied with the changes that are going to be made. Then you are ready to click "Commit Changes...'
+4. If you want to make more changes 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
