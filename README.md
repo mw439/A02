@@ -130,7 +130,7 @@ WebStorm is an integrated development environment for coding in JavaScript and i
 # Task: Making an account on JetBrains 
 - You can register and login by visiting this link: https://account.jetbrains.com/login
 
-# Feature: How to use Webstorm//Linking it to Git/Github
+# Feature: How to use Webstorm/Linking it to Git/Github
 All details regarding how to connect to Webstorm are linked here: 
 - https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_open_project 
 
