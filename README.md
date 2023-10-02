@@ -26,15 +26,22 @@ Some of the core languages on GitHub, includes languages such as: C, C++, C#, Go
 4. When you fully create a file, please remember to include a name in the file name field (ex: README.md). Type the name and extension for the file.
 5. To create subdirectories, type the (/) directory separator. In the file contents text box, type content for the file. (This will determine the code and the type of files that would be able to be used for the file)
 
-# Feature: Github WorkFlow
-
-# Fix: Making a Commit (Change/Revision)
+# Task/Fix: Making a Commit (Change/Revision)
 1. After creating a file in the repository. To change the contents of the files (w/ information, code, comments, etc.. that you want to add/remove), you have to make a **Commit**. Commits are like snapshots of all the files in your project at a particular point in time.
 2. When making "Commit Changes...", please notice some of the tools that are available to you:
 - The Preview shows what the file would look like after the changes. After reviewing the preview you are able to decide whether you want to keep the commit.
 - Review the changes you made to the file. If you select Show Diff, you will see the new content in green.
 3. When your finally satisfied with the changes that are going to be made. Then you are ready to click "Commit Changes...'
-4. If you want to make more changes click the edit file icon(pen icon) and repeat the previous steps on making a commit. 
+4. If you want to make more changes click the edit file icon(pen icon) and repeat the previous steps on making a commit.
+
+# Feature: Github WorkFlow
+"Workflows are defined in the .github/workflows directory in a repository, and a repository can have multiple workflows, each of which can perform a different set of tasks. For example, you can have one workflow to build and test pull requests, another workflow to deploy your application every time a release is created, and still another workflow that adds a label every time someone opens a new issue." (Github)
+
+# Features: Other commands/features/concepts
+- **Branches** allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository. You can use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.
+- **Merging(Merge)** allows you to combine branches into one. Sometimes **Merge conflicts** can happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. Git can often resolve differences between branches and merge them automatically.
+
+COMMANDS are very useful when interacting with a remote repository. You can **clone** and **fetch** download remote code from a repository's remote URL to your local computer, **merge** can also be used to merge different people's work together with yours, and **pull** is a combination of **fetch** and **merge**.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,6 +91,8 @@ A repository is the most basic element of GitHub. They're easiest to imagine as 
 
 - https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files
 
-- https://docs.github.com/en/get-started/quickstart/create-a-repo 
+- https://docs.github.com/en/get-started/quickstart/create-a-repo
+
+- https://docs.github.com/en/actions/using-workflows/about-workflows 
 
 
