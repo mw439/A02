@@ -55,7 +55,11 @@ COMMANDS are very useful when interacting with a **remote** repository. You can 
 
 Git allows developers see the entire timeline of their changes, decisions, and progression of any project in one place which is GitHub.
 
-Please realize that: "GitHub hosts Git repositories and provides developers with tools to ship better code through command line features, issues (threaded discussions), pull requests, code review, or the use of a collection of free and for-purchase apps in the GitHub Marketplace. With collaboration layers like the GitHub flow, a community of 100 million developers, and an ecosystem with hundreds of integrations, GitHub changes the way software is built."
+Please realize that: "GitHub hosts Git repositories and provides developers with tools to ship better code through command line features, issues (threaded discussions), pull requests, code review, or the use of a collection of free and for-purchase apps in the GitHub Marketplace. With collaboration layers like the GitHub flow, a community of 100 million developers, and an ecosystem with hundreds of integrations, GitHub changes the way software is built." 
+
+The key difference is that: 
+- Git is a version control system that lets you manage and keep track of your source code history.
+- GitHub is a cloud-based hosting service that lets you manage Git repositories.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Steps to use Git 
