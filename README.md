@@ -64,6 +64,8 @@ Please realize that: "GitHub hosts Git repositories and provides developers with
   - Windows
   - MacOS
 - Understand that it is required to download Git to fully optimize the use with Github Desktop. (If you download GitHub Desktop it will also download the latest version of Git aswell)
+- For more details on installing Git please visit the website below:
+- https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 # Steps to use Webstorm 
 
